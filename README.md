@@ -100,13 +100,58 @@
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Major Projects  
 
-🔹 [**Brainrotify**](https://github.com/SnehaPandit057/brainrotify) – Converts study materials into **brainrot-style short-form videos** with memes & AI voiceovers.  
+### 🔹 [Brainrotify] 
+AI-powered web app that converts **study materials (PDFs/PPTs)** into **brainrot-style short-form videos** with meme summaries, voiceovers, and auto-generated visuals.  
 
-🔹 **Tech For Girls Community** – Modern **registration website** with animations, theme toggle, WhatsApp counter, and Google Sheets integration.  
+---
 
-🔹 **Voice Assistant for Accessibility** – A bilingual (Hindi + English) **voice assistant** to help visually impaired users fill government forms (with IndiaStack API).  
+### 🔹 Voice Assistant for Accessibility  
+A **bilingual (Hindi + English) voice assistant** to help **visually impaired users** fill government forms.  
+- Detects form fields & guides via voice  
+- Supports **multi-language form filling**  
+- Integrated with **IndiaStack API** for e-KYC  
+
+---
+
+### 🔹 WhatsApp Clone  
+A real-time chat application inspired by WhatsApp.  
+- Built with **React + Firebase**  
+- Supports **authentication & live messaging**  
+- Responsive UI with modern design  
+
+---
+
+### 🔹 YouTube Clone  
+A video streaming platform inspired by YouTube.  
+- Built with **React + YouTube API**  
+- Video search, recommendations, and player features  
+- Clean, responsive UI  
+
+---
+
+### 🔹 Finance Tracker  
+A personal finance management tool.  
+- Track **income, expenses, and savings**  
+- Visualize data with **charts & graphs**  
+- Built using **React + MongoDB/Express (MERN Stack)**  
+
+---
+
+### 🔹 Cloud Arcade Projects  
+Built & deployed scalable apps as part of **Google Cloud Arcade Facilitator Program (2025 Cohort)**, exploring:  
+- GCP services (Compute, Storage, IAM, Cloud Run)  
+- Containerization basics with Docker  
+- Automation with GitHub Actions
+
+---
+
+## 📜 Certificates  
+
+- 🏅 Duolingo German (Completion – 2021)  
+- ☁️ Google Cloud Arcade Facilitator – Cohort 2  
+- 👩‍💻 GirlScript Summer of Code '25
 
 ---
 
