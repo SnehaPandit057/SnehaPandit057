@@ -14,6 +14,8 @@
 
 ## 🚀 Tech Stack  
 
+## 🚀 Tech Stack  
+
 <table>
   <tr>
     <td align="center" width="100">
@@ -52,7 +54,7 @@
       <br>CSS3
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="TailwindCSS" />
       <br>Tailwind
     </td>
     <td align="center" width="100">
